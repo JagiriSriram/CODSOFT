@@ -1,6 +1,6 @@
 # Contact Book - Multi-Mode CLI & GUI
 
-A highly polished, multi-mode **Contact Book** manager application built with Python. TaskFlow Contact Book persists records locally using an SQLite database, offering both an interactive console prompt interface (CLI) and a premium, responsive desktop graphical user interface (GUI).
+A highly polished, multi-mode **Contact Book** manager application built with Python. Contact Book persists records locally using an SQLite database, offering both an interactive console prompt interface (CLI) and a premium, responsive desktop graphical user interface (GUI).
 
 ---
 
