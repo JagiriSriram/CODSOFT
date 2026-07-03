@@ -1,4 +1,4 @@
-# TaskFlow Password Generator - Multi-Mode CLI & GUI
+# Password Generator - Multi-Mode CLI & GUI
 
 A modern, highly secure **Password Generator** application built with Python. TaskFlow Password Generator creates cryptographically secure random passwords using Python's `secrets` module, supporting both an interactive console prompt interface (CLI) and a premium desktop graphical user interface (GUI).
 
