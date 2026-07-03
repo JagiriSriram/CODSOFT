@@ -1,55 +1,34 @@
-# TaskFlow - Premium Python GUI To-Do List
+# CODSOFT Internship - Software Development (Python)
 
-A modern, fast, and feature-rich **To-Do List** application built with Python. TaskFlow features an elegant dark mode user interface, local data persistence using SQLite, dynamic search, multi-criteria filtering, and priority visual coding.
-
----
-
-## Key Features
-
-- ⚡ **Local Persistence**: Powered by Python's built-in `sqlite3` database. Your tasks are saved automatically and remain intact when you close the app.
-- 🎨 **Rich Modern Aesthetics**: Sleek dark mode styling featuring Catppuccin Mocha colors, rounded card hovers, and clean typography.
-- 🏷️ **Categorized Organization**: Group tasks into custom or standard categories (e.g., Work, Personal, Shopping, Health) and view real-time counts.
-- ⚖️ **Priority Levels**: Tasks are color-coded (Red for High, Orange for Medium, Green for Low) with left border accents.
-- 📅 **Due Dates**: Track deadlines. Tasks display standard dates, and past deadlines are colored red with an "Overdue" indicator.
-- 🔍 **Real-time Search & Filter**: Search by title or description in real-time as you type, filter by status (All, Pending, Completed), and filter by category chips.
-- 🔃 **Sorting Controls**: Sort tasks dynamically by creation time (Newest First), due date, or priority.
+This repository serves as a portfolio of software development projects completed during the **CODSOFT** internship. All projects are built using Python with clean design, database integration, and modern user interfaces.
 
 ---
 
-## File Structure
+## 👨‍💻 Intern Details
 
-```text
-codSoft/
-├── .gitignore
-├── README.md
-└── To-Do list/
-    ├── main.py             # Main entry point and core controller
-    ├── db_manager.py       # SQLite database operations & filters
-    └── gui_components.py   # Reusable GUI frames, cards, and modal forms
-```
+- **Intern**: Sriram Jagiri
+- **Internship Domain**: Software Development (Python)
+- **Host Platform**: CODSOFT
 
 ---
 
-## Requirements
+## 📂 Project Directory
 
-TaskFlow uses Python's standard library modules and has **no external dependencies**. You do not need to install any external pip packages.
-- Python 3.8 or higher is recommended.
-- Tkinter (standard with Python on Windows/macOS).
+Below is the list of tasks assigned and implemented during the internship:
 
----
-
-## How to Run the Application
-
-Navigate to the project root directory and execute:
-
-```bash
-python "To-Do list/main.py"
-```
+### ⚡ Task 1: TO-DO LIST
+- **Description**: A premium, dark-themed GUI To-Do List application. Includes task categorization, priority accents, calendar deadline tracking, SQLite local database persistence, multi-criteria filtering, and real-time search.
+- **Technology Stack**: Python, Tkinter (GUI), SQLite3 (Database).
+- **Directory**: [`To-Do list/`](file:///c:/Users/srira/Desktop/Internships/codSoft/To-Do%20list/)
+- **Quick Run**:
+  ```bash
+  python "To-Do list/main.py"
+  ```
+- **Task Specific Documentation**: See the detailed task readme at [`To-Do list/README.md`](file:///c:/Users/srira/Desktop/Internships/codSoft/To-Do%20list/README.md).
 
 ---
 
-## Core Technologies
+## 🛠️ Repository Configuration
 
-- **Language**: Python 3
-- **GUI Engine**: Tkinter / ttk
-- **Database Engine**: SQLite 3
+- **Git Exclusions**: Temporary files, Python compilations (`__pycache__/`), and local SQLite databases are ignored to prevent bloated tracking.
+- **Global Config**: Each task contains its own localized `.gitignore` and `README.md` to ensure modularity.
