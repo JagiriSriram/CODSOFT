@@ -44,6 +44,15 @@ Below is the list of tasks assigned and implemented during the internship:
   - **CLI**: `python "password generator/main.py" --cli`
 - **Task Specific Documentation**: See the detailed task readme at [`password generator/README.md`](file:///c:/Users/srira/Desktop/Internships/codSoft/password%20generator/README.md).
 
+### ⚡ Task 4: ROCK-PAPER-SCISSORS GAME
+- **Description**: An interactive, dual-mode Rock-Paper-Scissors game. Features a terminal CLI mode and a premium, dark-themed Tkinter GUI with custom weapon card buttons, versus battle panels, real-time scoreboard metrics, and outcome banners.
+- **Technology Stack**: Python, Tkinter (GUI), random.
+- **Directory**: [`RPS Game/`](file:///c:/Users/srira/Desktop/Internships/codSoft/RPS%20Game/)
+- **Quick Run**:
+  - **GUI**: `python "RPS Game/main.py"`
+  - **CLI**: `python "RPS Game/main.py" --cli`
+- **Task Specific Documentation**: See the detailed task readme at [`RPS Game/README.md`](file:///c:/Users/srira/Desktop/Internships/codSoft/RPS%20Game/README.md).
+
 ---
 
 ## 🛠️ Repository Configuration
