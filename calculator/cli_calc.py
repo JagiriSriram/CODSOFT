@@ -15,7 +15,7 @@ def get_number_input(prompt_text):
         try:
             val = input(prompt_text).strip()
             if val.lower() in ['q', 'exit', 'quit']:
-                print("\nExiting Calculator. Thank you for using TaskFlow!")
+                print("\nExiting Calculator. Thank you for using Calculator!")
                 sys.exit(0)
             return float(val)
         except ValueError:
@@ -39,7 +39,7 @@ def get_operator_input():
     while True:
         op = input("\nEnter your operation choice: ").strip()
         if op.lower() in ['q', 'exit', 'quit']:
-            print("\nExiting Calculator. Thank you for using TaskFlow!")
+            print("\nExiting Calculator. Thank you for using Calculator!")
             sys.exit(0)
         if op in valid_ops:
             return op
@@ -112,7 +112,7 @@ def run_cli_calculator():
         # Ask to continue
         again = input("Do you want to perform another calculation? (y/n): ").strip().lower()
         if again not in ['y', 'yes']:
-            print("\nExiting Calculator. Thank you for using TaskFlow!")
+            print("\nExiting Calculator. Thank you for using Calculator!")
             break
 
 if __name__ == "__main__":
