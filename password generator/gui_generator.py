@@ -77,7 +77,7 @@ class GUIPasswordGenerator(tk.Frame):
     def __init__(self, parent, *args, **kwargs):
         super().__init__(parent, bg=THEME["bg_main"], **kwargs)
         self.parent = parent
-        self.parent.title("TaskFlow - Secure Password Generator")
+        self.parent.title("Password Generator")
         self.parent.geometry("460x520")
         self.parent.resizable(False, False)
         self.parent.configure(bg=THEME["bg_main"])

@@ -3,7 +3,7 @@ import argparse
 import tkinter as tk
 
 def main():
-    parser = argparse.ArgumentParser(description="TaskFlow Password Generator - Multi-Mode CLI/GUI")
+    parser = argparse.ArgumentParser(description="Password Generator - Multi-Mode CLI/GUI")
     parser.add_argument("--cli", action="store_true", help="Launch in command-line CLI mode")
     args = parser.parse_args()
 
