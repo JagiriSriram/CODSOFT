@@ -35,6 +35,15 @@ Below is the list of tasks assigned and implemented during the internship:
   - **CLI**: `python "calculator/main.py" --cli`
 - **Task Specific Documentation**: See the detailed task readme at [`calculator/README.md`](file:///c:/Users/srira/Desktop/Internships/codSoft/calculator/README.md).
 
+### ⚡ Task 3: PASSWORD GENERATOR
+- **Description**: A secure, dual-mode random password generator. Includes interactive CLI questions and a stunning Tkinter GUI with length sliders, complexity check toggles, a colored segmented strength indicator, and clipboard copying overlays.
+- **Technology Stack**: Python, Tkinter (GUI), secrets.
+- **Directory**: [`password generator/`](file:///c:/Users/srira/Desktop/Internships/codSoft/password%20generator/)
+- **Quick Run**:
+  - **GUI**: `python "password generator/main.py"`
+  - **CLI**: `python "password generator/main.py" --cli`
+- **Task Specific Documentation**: See the detailed task readme at [`password generator/README.md`](file:///c:/Users/srira/Desktop/Internships/codSoft/password%20generator/README.md).
+
 ---
 
 ## 🛠️ Repository Configuration
