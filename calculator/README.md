@@ -1,6 +1,6 @@
-# TaskFlow Calculator - Multi-Mode CLI & GUI
+# Calculator - Multi-Mode CLI & GUI
 
-A highly polished, multi-mode **Calculator** application implemented in Python. TaskFlow Calculator features both a terminal command-line prompt mode (CLI) and a stunning desktop graphical user interface (GUI) with unified entry controls.
+A highly polished, multi-mode **Calculator** application implemented in Python. Calculator features both a terminal command-line prompt mode (CLI) and a stunning desktop graphical user interface (GUI) with unified entry controls.
 
 ---
 
