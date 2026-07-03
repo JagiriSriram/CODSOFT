@@ -355,7 +355,6 @@ class TaskDialog(tk.Toplevel):
 
         # Priority Selection
         prio_frame = tk.Frame(mid_row, bg=THEME["bg_main"])
-        prio_frame.pack(side="left", fill="x", expand=True, pright=10) # note: pright is typo or standard padding? Let's use standard pack padding:
         prio_frame.pack(side="left", fill="x", expand=True, padx=(0, 10))
         tk.Label(prio_frame, text="Priority", font=("Segoe UI", 9, "bold"), fg=THEME["white"], bg=THEME["bg_main"]).pack(anchor="w", pady=(0, 2))
         self.prio_var = tk.StringVar(value="Medium")

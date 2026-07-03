@@ -164,7 +164,6 @@ class ToDoApp:
 
         # Search Bar Container
         search_container = tk.Frame(header, bg=THEME["bg_card"], padx=10, pady=5, bd=0, highlightthickness=1, highlightbackground=THEME["fg_sub"], highlightcolor=THEME["accent"])
-        search_container.pack(side="left", fill="x", expand=True, pright=15) # Wait, let's fix packing options
         search_container.pack(side="left", fill="x", expand=True, padx=(0, 15))
 
         search_icon = tk.Label(search_container, text="🔍", font=("Segoe UI", 11), fg=THEME["fg_sub"], bg=THEME["bg_card"])
