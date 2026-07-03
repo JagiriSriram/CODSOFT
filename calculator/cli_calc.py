@@ -3,7 +3,7 @@ import sys
 def print_banner():
     banner = """
     ╔══════════════════════════════════════════════════════╗
-    ║                 ⚡ TASKFLOW CALCULATOR ⚡            ║
+    ║                     ⚡ CALCULATOR ⚡                 ║
     ║             Interactive Command Line Mode            ║
     ╚══════════════════════════════════════════════════════╝
     """
