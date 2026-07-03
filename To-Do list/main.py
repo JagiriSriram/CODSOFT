@@ -227,7 +227,7 @@ class ToDoApp:
         self.stats_lbl = tk.Label(
             self.stats_bar,
             text="Pending: 0  |  Completed: 0",
-            font=("Segoe UI", 9.5, "bold"),
+            font=("Segoe UI", 10, "bold"),
             fg=THEME["fg_sub"],
             bg=THEME["bg_sidebar"]
         )
@@ -236,7 +236,7 @@ class ToDoApp:
         copyright_lbl = tk.Label(
             self.stats_bar,
             text="TaskFlow CLI-GUI v1.0",
-            font=("Segoe UI", 8.5),
+            font=("Segoe UI", 9),
             fg=THEME["fg_sub"],
             bg=THEME["bg_sidebar"]
         )
@@ -290,7 +290,7 @@ class ToDoApp:
         lbl = tk.Label(
             chip, 
             text=f"{category}", 
-            font=("Segoe UI", 9.5, "bold" if is_active else "normal"), 
+            font=("Segoe UI", 10, "bold" if is_active else "normal"), 
             fg=chip_fg, 
             bg=chip_bg,
             anchor="w",
@@ -301,7 +301,7 @@ class ToDoApp:
         cnt_lbl = tk.Label(
             chip, 
             text=f"{count}", 
-            font=("Segoe UI", 8.5, "bold"), 
+            font=("Segoe UI", 9, "bold"), 
             fg=chip_fg, 
             bg=chip_bg,
             cursor="hand2"

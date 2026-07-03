@@ -212,7 +212,7 @@ class TaskCard(tk.Frame):
             self.due_lbl = tk.Label(
                 self.bottom_row, 
                 text=f" 📅 {due_date_str}", 
-                font=("Segoe UI", 8.5), 
+                font=("Segoe UI", 9), 
                 fg=due_fg, 
                 bg=THEME["bg_card"]
             )
