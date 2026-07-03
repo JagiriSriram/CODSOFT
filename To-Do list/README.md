@@ -1,6 +1,6 @@
-# TaskFlow - Premium Python GUI To-Do List
+# Premium Python GUI To-Do List
 
-A modern, fast, and feature-rich **To-Do List** application built with Python. TaskFlow features an elegant dark mode user interface, local data persistence using SQLite, dynamic search, multi-criteria filtering, and priority visual coding.
+A modern, fast, and feature-rich **To-Do List** application built with Python. To-Do List features an elegant dark mode user interface, local data persistence using SQLite, dynamic search, multi-criteria filtering, and priority visual coding.
 
 ---
 
