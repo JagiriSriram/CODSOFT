@@ -1,0 +1,15 @@
+# Local ignores for Contact Book project
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases used locally
+*.db
+*.db-journal
+*.sqlite3
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

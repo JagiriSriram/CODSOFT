@@ -53,6 +53,15 @@ Below is the list of tasks assigned and implemented during the internship:
   - **CLI**: `python "RPS Game/main.py" --cli`
 - **Task Specific Documentation**: See the detailed task readme at [`RPS Game/README.md`](file:///c:/Users/srira/Desktop/Internships/codSoft/RPS%20Game/README.md).
 
+### ⚡ Task 5: CONTACT BOOK
+- **Description**: A full-featured, dual-mode contact manager. Supports CLI list prompts and a premium desktop Tkinter GUI featuring scrollable lists, real-time search filters, profile avatar drawings, detailed metadata displays, and popup validation dialogs.
+- **Technology Stack**: Python, Tkinter (GUI), SQLite3 (Database).
+- **Directory**: [`contact book/`](file:///c:/Users/srira/Desktop/Internships/codSoft/contact%20book/)
+- **Quick Run**:
+  - **GUI**: `python "contact book/main.py"`
+  - **CLI**: `python "contact book/main.py" --cli`
+- **Task Specific Documentation**: See the detailed task readme at [`contact book/README.md`](file:///c:/Users/srira/Desktop/Internships/codSoft/contact%20book/README.md).
+
 ---
 
 ## 🛠️ Repository Configuration
