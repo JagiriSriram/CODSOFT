@@ -6,8 +6,8 @@ This repository serves as a portfolio of software development projects completed
 
 ## 👨‍💻 Intern Details
 
-- **Intern**: Sriram Jagiri
-- **Internship Domain**: Software Development (Python)
+- **Intern**: Jagiri Sriram
+- **Internship Domain**: Python Programming
 - **Host Platform**: CODSOFT
 
 ---
