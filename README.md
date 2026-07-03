@@ -26,6 +26,15 @@ Below is the list of tasks assigned and implemented during the internship:
   ```
 - **Task Specific Documentation**: See the detailed task readme at [`To-Do list/README.md`](file:///c:/Users/srira/Desktop/Internships/codSoft/To-Do%20list/README.md).
 
+### ⚡ Task 2: CALCULATOR
+- **Description**: A dual-mode calculator. Features an interactive terminal prompt CLI mode and a premium, responsive Tkinter GUI with custom hover buttons, key bindings, and a sliding calculation history panel.
+- **Technology Stack**: Python, Tkinter (GUI).
+- **Directory**: [`calculator/`](file:///c:/Users/srira/Desktop/Internships/codSoft/calculator/)
+- **Quick Run**:
+  - **GUI**: `python "calculator/main.py"`
+  - **CLI**: `python "calculator/main.py" --cli`
+- **Task Specific Documentation**: See the detailed task readme at [`calculator/README.md`](file:///c:/Users/srira/Desktop/Internships/codSoft/calculator/README.md).
+
 ---
 
 ## 🛠️ Repository Configuration
