@@ -172,7 +172,7 @@ class GUIContacts(tk.Frame):
     def __init__(self, parent, *args, **kwargs):
         super().__init__(parent, bg=THEME["bg_main"], **kwargs)
         self.parent = parent
-        self.parent.title("TaskFlow - Contact Manager")
+        self.parent.title("Contact Book")
         self.parent.geometry("820x600")
         self.parent.resizable(False, False)
         self.parent.configure(bg=THEME["bg_main"])
