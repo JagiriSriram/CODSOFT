@@ -33,7 +33,7 @@ class GUICalculator(tk.Frame):
     def __init__(self, parent, *args, **kwargs):
         super().__init__(parent, bg=THEME["bg_main"], **kwargs)
         self.parent = parent
-        self.parent.title("TaskFlow - Advanced Calculator")
+        self.parent.title("Calculator")
         self.parent.geometry("380x560")
         self.parent.resizable(False, False)
         self.parent.configure(bg=THEME["bg_main"])
